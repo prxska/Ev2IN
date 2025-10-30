@@ -39,7 +39,7 @@ Para replicar este análisis, sigue los siguientes pasos:
 4.  **Instalar las dependencias:**
     Instala las librerías necesarias.
     ```bash
-    pip install requirements.txt
+    pip install -r requirements.txt
     ```
 
 5.  **Iniciar Jupyter:**
