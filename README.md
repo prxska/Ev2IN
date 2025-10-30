@@ -37,9 +37,9 @@ Para replicar este análisis, sigue los siguientes pasos:
         ```
 
 4.  **Instalar las dependencias:**
-    Instala las librerías necesarias. (Puedes crear un `requirements.txt` con la lista de abajo o instalarlas manualmente).
+    Instala las librerías necesarias.
     ```bash
-    pip install pandas numpy scikit-learn matplotlib seaborn jupyter
+    pip install requirements.txt
     ```
 
 5.  **Iniciar Jupyter:**
